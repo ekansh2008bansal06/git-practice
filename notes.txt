@@ -1,0 +1,2 @@
+I am learning git and git hub
+git is a very helpful tool
